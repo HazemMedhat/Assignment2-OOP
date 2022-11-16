@@ -1,6 +1,8 @@
 #include "BigDecimalIntClass.h"
 
 
+
+
 long long pos1 = 0, pos2 = 0, f_pos = 0;
 // regex function that checks the validation of the input.
 bool BigDecimalInt :: checkValidInput(string input)
